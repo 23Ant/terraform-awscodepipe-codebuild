@@ -1,2 +1,1 @@
-# terraform-awscodepipe-codebuild
-iTalents - AWS DevOps 
+# terraform-codebuild
