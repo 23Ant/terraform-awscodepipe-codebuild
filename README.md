@@ -1,5 +1,4 @@
 
-```markdown
 # Terraform AWS CodePipeline e CodeBuild (iTalents AWS DEVOPS) 
 
 Este projeto foi desenvolvido com o objetivo de fornecer um código simples, modular e reutilizável para fácil implementação de pipelines de integração contínua (CI) e entrega contínua (CD) na AWS utilizando Terraform. Ele permite a criação de pipelines que integram o AWS CodePipeline e o AWS CodeBuild, oferecendo flexibilidade e rapidez na implementação em outras soluções.
@@ -34,12 +33,12 @@ Este projeto foi desenvolvido com o objetivo de fornecer um código simples, mod
 
 1. Após inicializar o Terraform, autentique-se na AWS e configure suas credenciais.
 2. Execute o seguinte comando para criar o plano de execução:
-   ```bash
+
    terraform plan
-   ```
+
 3. Para aplicar as mudanças e provisionar os recursos, execute:
-   ```bash
+
    terraform apply
-   ```
+
    Confirme a aplicação, se solicitada, digitando `yes`.
 
