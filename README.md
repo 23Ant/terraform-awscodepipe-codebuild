@@ -18,17 +18,17 @@ Este projeto foi desenvolvido com o objetivo de fornecer um código simples, mod
 ## Inicialização do Projeto
 
 1. Clone este repositório:
-   ```bash
+
    git clone https://github.com/23Ant/terraform-awscodepipe-codebuild.git
-   ```
+
 2. Navegue até o diretório do projeto:
-   ```bash
+
    cd terraform-awscodepipe-codebuild
-   ```
+
 3. Inicialize o Terraform:
-   ```bash
+
    terraform init
-   ```
+
 
 ## Construção do Código
 
