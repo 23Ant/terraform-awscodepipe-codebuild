@@ -43,6 +43,3 @@ Este projeto foi desenvolvido com o objetivo de fornecer um código simples, mod
    ```
    Confirme a aplicação, se solicitada, digitando `yes`.
 
-
-```
-
